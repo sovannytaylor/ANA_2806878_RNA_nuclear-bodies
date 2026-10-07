@@ -19,7 +19,7 @@
 - [ ] delete placeholder files raw_data folders
 - [ ] import the editable analysis submodule in vscode terminal
 ~~~ 
-git submodule add https://github.com/YOUR_USERNAME/punctalyze.git punctalyze 
+git submodule add https://github.com/sovannytaylor/punctalyze-SRT.git punctalyze-SRT 
 ~~~
 ^^^ this adds your forked 'punctalyze' pipeline to this experiment repository
 ~~~ 
